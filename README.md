@@ -47,6 +47,10 @@ To define fixture
 
 Define common fixture in conftest.py
 
+To generate xml report
+--junitxml=file_name
+--junitxml=xml_report
+
 
 
 
